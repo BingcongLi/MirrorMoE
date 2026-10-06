@@ -1,0 +1,15 @@
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Built from source by scripts/miscellaneous/install.sh
+/apex/
+/TransformerEngine/
+
+# Run outputs
+/logs/
